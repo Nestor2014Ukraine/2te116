@@ -14,6 +14,9 @@ header a {
 .u12 {
     width: 150px;
 }
+.y12 {
+    backround-color: white;
+}
 body img {
   border: solid 5px;
 }
